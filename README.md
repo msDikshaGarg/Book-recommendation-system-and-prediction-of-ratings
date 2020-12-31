@@ -55,3 +55,18 @@ was plotted.
 The model additionally takes an external self-given title and predicts the rating of the self-specified title
 by giving the probability of each rating. The rating with the highest probability is taken to be the
 predicted rating.
+
+### Results
+
+
+
+### Conclusion
+
+The recommendation system output shows the expected behavior by recommending the books that
+had similar keywords in them. The books with the most similar keywords were given as the topmost
+output as expected. The prediction system shows a good accuracy after the analysis. The validation
+accuracy comes out to be 79.66% and the training accuracy is 79.74% which suggest a good fit of the
+data and the model does not seem to be under or overfit. Upon further analysis of the loss function the
+arc of the plot shows a good learning rate and model performance as well which further validates the
+results of accuracy values.
+
