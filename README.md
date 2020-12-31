@@ -17,8 +17,8 @@ The [dataset](https://www.kaggle.com/meetnaren/goodreads-best-books?select=book_
 project is Goodreads’ Best Books Ever dataset scraped from Goodreads,
 available for use on Kaggle. The dataset consists of 48483 unique book title values which have been
 extensively used in the purpose of this project. The dataset also contains book ratings that have been
-used as the target label in prediction. For transfer learning, Glove 6B 100d data was used contained 100
-dimensional vectors of pre trained weights for each word. The text file contains 6B tokens for 400k
+used as the target label in prediction. For transfer learning, [Glove](https://nlp.stanford.edu/projects/glove/)6B 100d
+data was used contained 100 dimensional vectors of pre trained weights for each word. The text file contains 6B tokens for 400k
 vocabulary words.
 
 ### Book Recommendation using Cosine Similarity
@@ -58,13 +58,21 @@ predicted rating.
 
 ### Results
 
+<p align="center">
 ![alt text](hp_out.JPG)
-<br>
+</p>
+
+<p align="center">
 ![alt text](acc.JPG)
-<br>
+</p>
+
+<p align="center">
 ![alt text](loss.JPG)
-<br>
+</p>
+
+<p align="center">
 ![alt text](out.JPG)
+</p>
 
 ### Conclusion
 
