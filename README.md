@@ -58,7 +58,7 @@ predicted rating.
 
 ### Results
 
-![alt text](hp full stuff.JPG)
+![alt text](msDikshaGarg/Book-recommendation-system-and-prediction-of-ratings/hp_out.JPG)
 
 ### Conclusion
 
