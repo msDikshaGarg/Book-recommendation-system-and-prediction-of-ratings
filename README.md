@@ -59,6 +59,12 @@ predicted rating.
 ### Results
 
 ![alt text](hp_out.JPG)
+<br>
+![alt text](acc.JPG)
+<br>
+![alt text](loss.JPG)
+<br>
+![alt text](out.JPG)
 
 ### Conclusion
 
